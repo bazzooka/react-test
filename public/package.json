@@ -1,0 +1,17 @@
+{
+  "name": "react-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-react": "~0.12.0",
+    "react": "~0.13.1",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
